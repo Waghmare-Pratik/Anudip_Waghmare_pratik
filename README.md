@@ -1,9 +1,70 @@
-# Anudip_Waghmare_pratik
-Anudip  project
 
-Power BI Dashboard SummaryThis dashboard provides a comprehensive overview of patient wait list data, focusing on key metrics, trends, and detailed breakdowns. The data is archived as of January 31, 2018, and March 31, 2021. It was designed to help hospital management optimize resource allocation, identify areas for improvement, and ensure efficient patient care. The dashboard provides insights into the distribution of case types, age profiles, and specialty-wise wait times.Key MetricsTotal Wait List 
-Comparison: 709KLatest Month Wait List: 640KPY Latest Month Wait List: N/AArchive Date: 31-01-2018 and 31-03-2021Wait List AnalysisTop 5 Wait List (by Specialty):Accident & Emergency: 111.19Paed Cardiology: 101.77Paed Orthopaedic: 114.50Paediatric Dermatology: 167.89Paediatric ENT: 147.55Key Indicators - Patient Wait List (Average): Displays average and median wait times.Time Band vs. Age Profile: Shows the distribution of wait times across different age groups (0-15, 16-64, 65+), broken down by month ranges (0-3, 3-6, 6-9, 9-12, 12-15, 15-18, 18+ months).Case Type Split:  Provides a breakdown of wait list cases by case type (Outpatient, Day Case, Inpatient), with percentages (e.g., 80 (72.49%)).Trend AnalysisMonthly Trend Analysis - Day Case / Inpatient vs. Outpatient:  Visualizes the monthly trends for Day Case/Inpatient and Outpatient cases from July 2018 to January 2021.Detailed ViewDetailed Grid View: Provides a tabular view of the wait list data, including:Archive DateCase Type (Day Case, Inpatient, Outpatient)Specialty Name (e.g., Orthopaedics)Age Profile (e.g., 0-15, 16-64, 65+)Time BandsFiltersThe dashboard includes filters to allow users to drill down into specific data:Case Type: AllSpecialty Name: AllAge Profile: AllTime Bands: AllDashboard Design and InsightsThe dashboard is organized into two pages:Page 1 (Summary): Provides a high-level overview of the patient wait list data.Key Performance Indicators (KPIs) display the latest month's patient wait list count and the count from the previous month.Filters for average and median wait times are implemented.A donut chart illustrates the distribution of case types.A bar chart displays the age profile distribution across different time bands.A multi-row card highlights the top 5 specialties with the highest wait times.A line chart shows the monthly trend analysis of Day Case, Inpatient, and Outpatient cases.Page 2 (Detailed View): Offers a granular view of the wait list data.A detailed table shows the count of outpatients, inpatients, and day cases across specialties, age profiles, and time bands.Filters for case type, time duration, and specialty name are available.Key InsightsPage 1 (Summary):KPIs provide a quick overview of current and previous month's patient wait list counts.The donut chart shows the proportion of each case type.The bar chart reveals age distribution patterns within different time bands.The multi-row card identifies the top 5 specialties with the highest wait times.Page 2 (Detailed View):The detailed table allows stakeholders to identify best and worst-performing specialties, age groups, and time bands.Trends in case type distribution across specialties provide insights into patient demographics.Comparison of wait times for different case types helps in identifying bottlenecks.ConclusionThe dashboard provides a comprehensive analysis of the patient wait list, empowering hospital management to make data-driven decisions for optimizing resource allocation, improving patient care, and enhancing operational efficiency. By leveraging insights from both pages, stakeholders can prioritize interventions, streamline processes, and ensure timely access to healthcare services.
 
-Preview:
-![HR  Analytics  Dashboard](https://github.com/user-attachments/assets/c02e6b3e-e144-40e1-81ca-8f018d3bd3ec)
+# Anudip_Waghmare_Pratik  
+### Power BI Project: Patient Wait List Dashboard
 
+---
+
+### 📊 Overview
+
+This Power BI dashboard analyzes patient wait list data archived on **31-Jan-2018** and **31-Mar-2021**. It supports hospital management in:
+
+- Optimizing resources  
+- Identifying bottlenecks  
+- Enhancing patient care  
+
+---
+
+### 📌 Key Stats
+
+- **Total Wait List:** 709K  
+- **Latest Month Count:** 640K  
+- **Top Specialties (Avg. Wait Days):**  
+  - Paed Dermatology: **167.89**  
+  - Paed ENT: **147.55**  
+  - Paed Orthopaedic: **114.50**  
+  - A&E: **111.19**  
+  - Paed Cardiology: **101.77**
+
+---
+
+### 🧪 Wait List Insights
+
+- **Age Profile vs. Time Bands:**  
+  Breakdown by age groups (0–15, 16–64, 65+) and time ranges (0–3 to 18+ months)
+
+- **Case Type Split:**  
+  Outpatient, Day Case, Inpatient  
+  _(e.g., Outpatients – 72.49%)_
+
+- **Trends:**  
+  Monthly trend of Day Case/Inpatient vs. Outpatient (Jul 2018–Jan 2021)
+
+---
+
+### 🔍 Dashboard Pages
+
+**Page 1 – Summary:**  
+- KPIs for wait list counts  
+- Donut chart: Case types  
+- Bar chart: Age vs. wait time  
+- Line chart: Monthly trend  
+- Top 5 longest wait specialties  
+
+**Page 2 – Detailed View:**  
+- Table with filters (Case Type, Age, Specialty, Time Band)  
+- Drill-down into granular metrics  
+
+---
+
+### ✅ Conclusion
+
+This dashboard helps stakeholders:
+
+- Identify high-impact areas  
+- Improve operational efficiency  
+- Deliver timely healthcare services  
+
+---
+
+Let me know if you'd like to add Power BI visuals, publish steps, or embed a dashboard link!
