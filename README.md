@@ -1,7 +1,7 @@
 
 
 # Anudip_Waghmare_Pratik  
-### Power BI Project: Patient Wait List Dashboard
+### Power BI Project:  Waiting Patient List Dashboard
 
 ---
 
