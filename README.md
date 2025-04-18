@@ -50,12 +50,14 @@ This Power BI dashboard analyzes patient wait list data archived on **31-Jan-201
 - Bar chart: Age vs. wait time  
 - Line chart: Monthly trend  
 - Top 5 longest wait specialties
- https://github.com/Waghmare-Pratik/Anudip_Waghmare_pratik/blob/main/Waiting%20Patient%20Analysis_page_1.png
+ ![image](https://github.com/user-attachments/assets/28829dd0-319d-4a72-a383-9cbe9d3fb44f)
+
 
 **Page 2 – Detailed View:**  
 - Table with filters (Case Type, Age, Specialty, Time Band)  
 - Drill-down into granular metrics  
-  [ Waiting Patient Analysis_page_1.png](https://github.com/Waghmare-Pratik/Anudip_Waghmare_pratik/blob/main/Waiting%20Patient%20Analysis_page_2.png)
+![image](https://github.com/user-attachments/assets/6172ee5e-19bf-4cd2-ac56-f82633aa54a8)
+
 ---
 
 ### ✅ Conclusion
