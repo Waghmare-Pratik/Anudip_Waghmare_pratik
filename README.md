@@ -68,6 +68,4 @@ This dashboard helps stakeholders:
 - Improve operational efficiency  
 - Deliver timely healthcare services  
 
----
 
-Let me know if you'd like to add Power BI visuals, publish steps, or embed a dashboard link!
