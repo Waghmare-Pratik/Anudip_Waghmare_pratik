@@ -67,7 +67,7 @@ This dashboard helps stakeholders:
 - Identify high-impact areas  
 - Improve operational efficiency  
 - Deliver timely healthcare services
-### 🎬👀Priview video 
+### 🎬👀Preview video 
 
 https://github.com/user-attachments/assets/934558a5-b92d-4e08-8b0c-700e0f5830d5
 
