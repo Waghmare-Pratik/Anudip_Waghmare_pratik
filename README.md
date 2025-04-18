@@ -49,12 +49,13 @@ This Power BI dashboard analyzes patient wait list data archived on **31-Jan-201
 - Donut chart: Case types  
 - Bar chart: Age vs. wait time  
 - Line chart: Monthly trend  
-- Top 5 longest wait specialties  
+- Top 5 longest wait specialties
+  Waiting Patient Analysis_page_1.png
 
 **Page 2 – Detailed View:**  
 - Table with filters (Case Type, Age, Specialty, Time Band)  
 - Drill-down into granular metrics  
-
+Waiting Patient Analysis_page_2.png
 ---
 
 ### ✅ Conclusion
