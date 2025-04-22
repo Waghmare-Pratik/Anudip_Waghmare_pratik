@@ -1,2 +1,14 @@
 Power BI Desktop
-HR_Analytics.csv
+data ->
+      |--> Inpatient -->
+                     | --> IN_WL 2018.csv
+                     | -->IN_WL 2019.csv
+                     | -->IN_WL 2020.csv
+                     | -->IN_WL 2021.csv
+      |--> Outpatent -->
+                     | -->Op_WL 2018.csv
+                     | -->Op_WL 2019.csv
+                     | -->Op_WL 2020.csv
+                     | -->Op_WL 2021.csv
+      |--> Mapping_Specialty.csv
+
